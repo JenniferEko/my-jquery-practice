@@ -104,3 +104,9 @@ nav{
     }
 }
 
+@media only screen and (max-width:390px){
+    .anim{
+        width: 30%;
+    }
+}
+
